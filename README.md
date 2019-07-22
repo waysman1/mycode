@@ -4,6 +4,7 @@ Learning to track my code
 # mycode (Project Tittle)
 Just gitting started
 ## Getting Started
+Testing connection.
 ### Prerequisites
 ## Built With
 *[Python] (https://www.python.org/) - The coding language used
