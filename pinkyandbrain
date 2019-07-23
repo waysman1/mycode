@@ -1,0 +1,10 @@
+#!/usr/bin/env python3
+
+mice = {'number': 2, 'names': [{'name': 'Pinky', 'tag': 'the real genius'}, {'name': 'The Brain', 'tag': 'insane one'}], 'world_domination_status': 'pending'}
+
+# Print the following sentence:
+# Pinky is the real genius, and The Brain is th insane one.
+
+ # print( mice['names'][0] ) + "is " + (mice['tag'][0] ) + ",  and " + (mice['name'][1] ) + (mice['tag'][1] )
+
+print("{} is {}, and {} is the {}".format(pinky, brainy, genius, insane)) 
